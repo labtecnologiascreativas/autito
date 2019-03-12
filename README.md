@@ -4,7 +4,7 @@
 ### **Resumen**
 El objetivo del taller es hacer un vehiculo utilizando Arduino, 1 Servomotor, 2 motores de corriente continua, un shield para controlar los motores y un sensor de ultrasonido.
 
-![Auto con servo](fotos/roboto_video_1.gif "Auto con servo")
+![Auto con servo](fotos/roboto_servo_3.jpg "Auto con servo")
 
 ### Documentación
 * [Libreria HC-SR04](https://bitbucket.org/teckel12/arduino-new-ping/wiki/Home)
